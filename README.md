@@ -3,6 +3,7 @@ A real-time financial sentiment analysis app that uses FinBERT to classify live 
 
 
 🔧 Features
+
 🧠 FinBERT Sentiment Model: A transformer-based model specifically trained on financial data for accurate sentiment classification.
 
 🔍 Live Web Scraping: Fetches up-to-date articles from Yahoo Finance using Selenium and BeautifulSoup.
